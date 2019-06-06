@@ -1,16 +1,13 @@
 # dice_app
 
-A new Flutter application.
+A basic Flutter application that rolls two dice on tap.
 
-## Getting Started
+## DESCRIPTION
 
-This project is a starting point for a Flutter application.
+This is a basic FLutter application that rolls the two dice and generates random numbers from 1-6 when tapped on.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1559808282](https://user-images.githubusercontent.com/45023388/59017281-caabb780-8860-11e9-951f-c692543b87e3.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1559808287](https://user-images.githubusercontent.com/45023388/59017284-cb444e00-8860-11e9-8274-551cb429e382.png)
